@@ -14,6 +14,6 @@ This process helped me learn how to automate large dataset creation and manage d
 
 4. Deaths
 
-Year-wise comparisons across hospitals
+5. Year-wise comparisons across hospitals
 
 The project helped me to learn how to write dynamic SQL, handling large volumes of data, and visualizing insights through Power BI
